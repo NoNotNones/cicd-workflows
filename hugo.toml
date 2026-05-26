@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Hello - Demo Hugo Site'
+theme = 'hugo-book'
+publishDir = 'docs'
+
+[params]
+BookTheme = 'auto'
+sectionPagesMenu = 'main'
