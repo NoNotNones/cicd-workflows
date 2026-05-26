@@ -2,19 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cicd-workflows/docs/</loc>
+    <loc>https://nonotnones.github.io/cicd-workflows/docs/</loc>
   </url><url>
-    <loc>http://localhost:1313/cicd-workflows/docs/getting-your-site-online/</loc>
+    <loc>https://nonotnones.github.io/cicd-workflows/docs/getting-your-site-online/</loc>
   </url><url>
-    <loc>http://localhost:1313/cicd-workflows/docs/optional-understanding-hugo/</loc>
+    <loc>https://nonotnones.github.io/cicd-workflows/docs/optional-understanding-hugo/</loc>
   </url><url>
-    <loc>http://localhost:1313/cicd-workflows/docs/installing-a-theme/</loc>
+    <loc>https://nonotnones.github.io/cicd-workflows/docs/installing-a-theme/</loc>
   </url><url>
-    <loc>http://localhost:1313/cicd-workflows/</loc>
-    <lastmod>2026-05-26T17:28:02+07:00</lastmod>
+    <loc>https://nonotnones.github.io/cicd-workflows/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/cicd-workflows/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/cicd-workflows/tags/</loc>
+    <loc>https://nonotnones.github.io/cicd-workflows/tags/</loc>
   </url>
 </urlset>
