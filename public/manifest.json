@@ -1,0 +1,15 @@
+{
+  "name": "CI/CD Workflows",
+  "short_name": "CI/CD Workflows",
+  "start_url": "/cicd-workflows/",
+  "scope": "/cicd-workflows/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/cicd-workflows/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}

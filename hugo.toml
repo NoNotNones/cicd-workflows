@@ -1,0 +1,7 @@
+baseURL = "https://nonotnones.github.io/cicd-workflows/"
+title = "CI/CD Workflows"
+theme = "hugo-book"
+defaultContentLanguage = "en"
+
+[markup.goldmark.renderer]
+unsafe = true
