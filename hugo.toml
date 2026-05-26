@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nonotnones.github.io/cicd-workflows'
 languageCode = 'en-us'
 title = 'Hello - Demo Hugo Site'
 theme = 'hugo-book'

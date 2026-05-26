@@ -1,14 +1,14 @@
 {
   "name": "Hello - Demo Hugo Site",
   "short_name": "Hello - Demo Hugo Site",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/cicd-workflows/",
+  "scope": "/cicd-workflows/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/cicd-workflows/favicon.svg",
       "sizes": "512x512"
     }
   ]
