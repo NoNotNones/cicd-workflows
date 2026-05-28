@@ -1,7 +1,10 @@
 baseURL = "https://nonotnones.github.io/cicd-workflows/"
-title = "CI/CD Workflows"
+title = "CI/CD Workflows Book"
 theme = "hugo-book"
 defaultContentLanguage = "en"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+# Repository URL, used for edit and commit links
+BookRepo = 'https://github.com/user/repo'
