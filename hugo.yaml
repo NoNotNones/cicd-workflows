@@ -1,4 +1,4 @@
-baseURL: http://0.0.0.0:1313/
+baseURL: https://nonotnones.github.io/cicd-workflows/
 title: Documentation
 theme: hugo-book
 
@@ -43,13 +43,13 @@ menu:
       pageRef: "/docs/"
       weight: 10
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book/"
+      url: "https://github.com/NoNotNones"
       weight: 20
 
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
+      url: "https://github.com/NoNotNones"
       weight: 10
 
 taxonomies:

@@ -1,6 +1,6 @@
 {
-  "name": "CI/CD Workflows Book",
-  "short_name": "CI/CD Workflows Book",
+  "name": "Documentation",
+  "short_name": "Documentation",
   "start_url": "/cicd-workflows/",
   "scope": "/cicd-workflows/",
   "display": "standalone",

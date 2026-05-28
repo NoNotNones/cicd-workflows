@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Tags on CI/CD Workflows Book</title>
+		<title>Tags on Documentation</title>
 		<link>http://localhost:1313/cicd-workflows/tags/</link>
-		<description>Recent content in Tags on CI/CD Workflows Book</description>
+		<description>Recent content in Tags on Documentation</description>
 		<generator>Hugo</generator>
 		<language>en</language>
 		
 		
 		
+			<copyright>This is a copyright placeholder</copyright>
 		
-			<lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+		
+			<lastBuildDate>Thu, 28 May 2026 11:09:31 +0700</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/cicd-workflows/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
