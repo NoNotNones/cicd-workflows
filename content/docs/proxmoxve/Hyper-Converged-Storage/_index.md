@@ -1,6 +1,6 @@
 ---
 title: "Hyper Converged Storage"
-weight: 1
+weight: 3
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
@@ -20,6 +20,9 @@ weight: 1
 - Managed storage pools, placement groups (PGs), metadata servers (MDS), and storage replication.
 - Designed resilient storage architecture with automatic recovery and high availability capabilities.
 - Integrated distributed file and block storage for VM images, backups, ISO repositories, and container data.
+
+
+## Hyper-Converged Storage
 
 ### Add Ceph Storage
 - Proxmox VE allow us to run Ceph on our nodes to provide distributed storage.

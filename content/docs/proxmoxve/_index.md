@@ -19,4 +19,10 @@ weight: 1
 - Implemented backup, restore, snapshot, and high-availability features.
 - Monitored and optimized virtualized infrastructure performance
 
+### Lab Cover:
+- Set Up Promox VE : Install Promox VE, Add local storage, NFS, Maintain the host.
+- Create Machines and Containers: Linux, Windows, Linux Containers.
+- Guest management: Web UI, the CLI, Directory share, Resource mapping and hardware pasthrough,Snapshot, Clones and templates
+- Network and High Avaliability : Network Virtualization and SDN, Private NAT network, Hyper-Converged Storage
+
 {{< image src="proxmox.png" >}}
