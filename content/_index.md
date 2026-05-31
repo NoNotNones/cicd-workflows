@@ -5,9 +5,8 @@ layout: landing
 <div class="book-hero">
 
 # TRAN ANH TUAN{anchor=false}
-## IT INFRASTRUCTURE & PLATFORM ENGINEER
+{{<button href="/docs/">}}Explore My Projects{{</button>}}  tuanatran.vn@gmail.com | linkedin.com/in/tuantran89 | +84-936-209-136
 
-{{<button href="/docs/">}}Explore My Projects{{</button>}} 
 
 ## SUMMARY
 - IT Infrastructure & Platform Engineer with hands-on experience designing, operating, and optimizing hybrid environments across on-premise and cloud platforms. Strong focus on automation, virtualization, and system reliability, with proven ability to build scalable infrastructure, enhance observability, and streamline IT operations.
@@ -21,11 +20,8 @@ layout: landing
 - Network & Security Engineering
 - Virtualization & Platform Engineering
 
-{{< columns >}}
+### My CI/CI Workflows :
+1- Promox
 
-{{< image src="devops3.png" >}}
+{{< image src="tools.jpg" >}}
 
-<--->
-{{< image src="devops4.png" >}}
-
-{{< /columns >}}

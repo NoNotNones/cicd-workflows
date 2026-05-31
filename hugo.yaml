@@ -1,5 +1,5 @@
 baseURL: https://nonotnones.github.io/cicd-workflows/
-title: Documentation
+title: Home Page
 theme: hugo-book
 
 copyright: "This is a copyright placeholder"
@@ -39,7 +39,7 @@ markup:
 
 menu:
   home:
-    - name: "Documentation"
+    - name: "My Home Page"
       pageRef: "/docs/"
       weight: 10
     - name: "Github"

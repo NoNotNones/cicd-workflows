@@ -1,6 +1,6 @@
 {
-  "name": "Documentation",
-  "short_name": "Documentation",
+  "name": "Home Page",
+  "short_name": "Home Page",
   "start_url": "/cicd-workflows/",
   "scope": "/cicd-workflows/",
   "display": "standalone",
