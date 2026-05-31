@@ -21,15 +21,17 @@
     <loc>http://localhost:1313/cicd-workflows/docs/section-1/section-3/leaf-page-2/</loc>
     <lastmod>2026-05-28T11:09:31+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cicd-workflows/docs/proxmoxve/Hyper-Converged-Storage/</loc>
-    <lastmod>2026-05-31T15:13:43+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cicd-workflows/docs/proxmoxve/Multi-NodeProxmoxVEClusterDeployment/</loc>
-  </url><url>
     <loc>http://localhost:1313/cicd-workflows/docs/proxmoxve/NetworkVirtualizationandSDN/</loc>
+    <lastmod>2026-05-31T15:37:40+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cicd-workflows/docs/proxmoxve/</loc>
-    <lastmod>2026-05-31T15:13:43+07:00</lastmod>
+    <lastmod>2026-05-31T15:37:40+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cicd-workflows/docs/proxmoxve/Multi-NodeProxmoxVEClusterDeployment/</loc>
+    <lastmod>2026-05-31T15:37:40+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cicd-workflows/docs/proxmoxve/Hyper-Converged-Storage/</loc>
+    <lastmod>2026-05-31T15:37:40+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cicd-workflows/docs/k8s/</loc>
     <lastmod>2026-05-31T15:13:43+07:00</lastmod>

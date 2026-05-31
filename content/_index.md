@@ -22,7 +22,7 @@ layout: landing
 
 ### My CI/CI Workflows :
 
-- {{< button href="https://nonotnones.github.io/cicd-workflows/cicd-workflows/docs/proxmoxve/" >}}Proxmox VE Virtualization Lab{{< /button >}}
+- {{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxve/" >}}Proxmox VE Virtualization Lab{{< /button >}}
 - [Proxmox VE Virtualization Lab](/cicd-workflows/docs/proxmoxve/)
 
 {{< image src="tools.jpg" >}}
