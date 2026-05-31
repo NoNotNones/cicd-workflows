@@ -21,7 +21,9 @@ layout: landing
 - Virtualization & Platform Engineering
 
 ### My CI/CI Workflows :
-1- Promox
+
+- {{< button href="https://nonotnones.github.io/cicd-workflows/cicd-workflows/docs/proxmoxve/" >}}Proxmox VE Virtualization Lab{{< /button >}}
+- [Proxmox VE Virtualization Lab](/cicd-workflows/docs/proxmoxve/)
 
 {{< image src="tools.jpg" >}}
 

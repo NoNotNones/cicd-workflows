@@ -1,6 +1,6 @@
 ---
 title: "K8s"
-weight: 1
+weight: 9
 # bookFlatSection: false
 # bookToc: true
 # bookHidden: false
