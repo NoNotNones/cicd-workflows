@@ -40,7 +40,7 @@ markup:
 menu:
   home:
     - name: "My Home Page"
-      pageRef: "/docs/"
+      pageRef: "/docs/proxmoxveceph"
       weight: 10
     - name: "Github"
       url: "https://github.com/NoNotNones"

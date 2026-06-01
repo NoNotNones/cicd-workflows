@@ -5,7 +5,7 @@ layout: landing
 <div class="book-hero">
 
 # TRAN ANH TUAN{anchor=false}
-{{<button href="/docs/">}}Explore My Projects{{</button>}}  tuanatran.vn@gmail.com | linkedin.com/in/tuantran89 | +84-936-209-136
+{{<button href="/docs/proxmoxveceph">}}Explore My Projects{{</button>}}  tuanatran.vn@gmail.com | linkedin.com/in/tuantran89 | +84-936-209-136
 
 
 ## SUMMARY
@@ -22,8 +22,9 @@ layout: landing
 
 ### My CI/CI Workflows :
 
-- {{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxve/" >}}Proxmox VE Virtualization Lab{{< /button >}}
-- [Proxmox VE Virtualization Lab](/cicd-workflows/docs/proxmoxve/)
+{{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxveceph/" >}}1. Multi-Node Proxmox & Ceph Infrastructure Deployment{{< /button >}}
++ This project simulates a real-world cloud infrastructure environment combining compute virtualization and distributed storage, demonstrating enterprise-level DevOps and SRE practices including high availability, fault tolerance, and system recovery.
+
 
 {{< image src="tools.jpg" >}}
 
