@@ -22,9 +22,17 @@ layout: landing
 
 ### My CI/CI Workflows :
 
-{{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxveceph/" >}}1. Multi-Node Proxmox & Ceph Infrastructure Deployment{{< /button >}}
-+ This project simulates a real-world cloud infrastructure environment combining compute virtualization and distributed storage, demonstrating enterprise-level DevOps and SRE practices including high availability, fault tolerance, and system recovery.
+{{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxveceph/" >}} Multi-Node Proxmox & Ceph Infrastructure Deployment{{< /button >}} 
+```ini
+This project simulates a real-world cloud infrastructure environment combining compute virtualization and distributed storage,
+demonstrating enterprise-level DevOps and SRE practices including high availability, fault tolerance, and system recovery.
+```
 
+{{< button href="https://nonotnones.github.io/cicd-workflows/docs/zabbixtunning/" >}}Zabbix Monitoring & Performance Optimization  {{< /button >}}
+```ini
+This project implements a centralized observability platform using **Zabbix, MariaDB, SNMP, and Agent-based monitoring**,
+combined with deep system-level performance tuning to ensure stability under limited resources.
+```
 
 {{< image src="tools.jpg" >}}
 
