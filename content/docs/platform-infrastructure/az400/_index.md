@@ -1,49 +1,18 @@
 ---
 title: "AZ-400 Concepts"
 weight: 1
+params:
+  bookCollapseSection: true
 ---
-# Section 1
 
-## Azure Boards & GitHub Integration
+# Follow by : Microsoft Azure DevOps Engineer Expert (AZ-400) Cert Prep by Microsoft Press
+## Course details : 
+16h . Advanced . Released: 4/17/2025
 
-- Integrated Azure Boards with GitHub repositories using Azure DevOps GitHub Connections.
-- Linked GitHub commits to Azure Boards Work Items using commit message conventions (AB#ID).
-- Enabled automatic work item tracking and status updates from GitHub development activities.
-- Improved traceability between project management and source code changes.
+- Looking to get ready for the Microsoft Azure DevOps Engineer Expert (AZ-400) certification exam? In this course, designed by Microsoft Press, instructor Paul Furlan covers the essential tools and services required to design and implement Microsoft Azure DevOps solutions. This certification is an ideal fit for any IT professional whose responsibilities include designing and implementing strategies for collaboration, coding, infrastructure, source control, security, compliance, continuous integration, testing, delivery, monitoring, and feedback.
 
-| | |
-|---|---|
-| {{< image src="az-board.png" >}} | {{< image src="az-board2.png" >}} |
+- This course was created by Microsoft Press. We are pleased to host this training in our library.
 
-## Microsoft Teams Integration
-- Integrated Azure Boards, Repos, and Pipelines with Microsoft Teams.
-- Configured project linking, event subscriptions, and automated notifications.
-- Created and managed work items, repository activities, and pipeline monitoring directly from Teams.
-- Improved team collaboration and visibility across the DevOps lifecycle.
-
-
-> **Note:** These images are taken from my online learning lab environment for study and testing purposes. The actual behavior may vary depending on the Microsoft Teams license and configuration used in a real-world setup.
->
-> **Important requirement:**
->
-> | Version | Supported |
-> |----------|----------|
-> | Teams Business | ✅ YES |
-> | Teams Enterprise | ✅ YES |
-> | Teams Free / Personal | ❌ NO |
-
-{{< columns >}}
-
-{{< image src="msteam1.png" >}}
-
-<--->
-
-{{< image src="msteam2.png" >}}
-
-<--->
-
-{{< image src="msteam3.png" >}}
-
-{{< /columns >}}
-
-## TEST
+- Skills covered:
+   - DevOps
+   - Microsoft Azure
