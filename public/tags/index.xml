@@ -12,36 +12,6 @@
 			<copyright>This is a copyright placeholder</copyright>
 		
 		
-			<lastBuildDate>Thu, 28 May 2026 15:49:34 +0700</lastBuildDate>
-		
 			<atom:link href="http://localhost:1313/cicd-workflows/tags/index.xml" rel="self" type="application/rss+xml" />
-			<item>
-				<title>Documentation</title>
-				<link>http://localhost:1313/cicd-workflows/tags/documentation/</link>
-				<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/cicd-workflows/tags/documentation/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Hugo</title>
-				<link>http://localhost:1313/cicd-workflows/tags/hugo/</link>
-				<pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/cicd-workflows/tags/hugo/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Blog</title>
-				<link>http://localhost:1313/cicd-workflows/tags/blog/</link>
-				<pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/cicd-workflows/tags/blog/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Post</title>
-				<link>http://localhost:1313/cicd-workflows/tags/post/</link>
-				<pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/cicd-workflows/tags/post/</guid>
-				<description></description>
-			</item>
 	</channel>
 </rss>

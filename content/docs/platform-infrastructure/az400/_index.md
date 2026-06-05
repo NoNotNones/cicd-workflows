@@ -20,3 +20,30 @@ weight: 1
 - Configured project linking, event subscriptions, and automated notifications.
 - Created and managed work items, repository activities, and pipeline monitoring directly from Teams.
 - Improved team collaboration and visibility across the DevOps lifecycle.
+
+
+> **Note:** These images are taken from my online learning lab environment for study and testing purposes. The actual behavior may vary depending on the Microsoft Teams license and configuration used in a real-world setup.
+>
+> **Important requirement:**
+>
+> | Version | Supported |
+> |----------|----------|
+> | Teams Business | ✅ YES |
+> | Teams Enterprise | ✅ YES |
+> | Teams Free / Personal | ❌ NO |
+
+{{< columns >}}
+
+{{< image src="msteam1.png" >}}
+
+<--->
+
+{{< image src="msteam2.png" >}}
+
+<--->
+
+{{< image src="msteam3.png" >}}
+
+{{< /columns >}}
+
+## TEST

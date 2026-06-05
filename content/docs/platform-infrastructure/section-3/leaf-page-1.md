@@ -1,8 +1,9 @@
 ---
+title: Page 1
 weight: 1
 ---
 
-# Leaf Page 1
+# Page 1
 
 ## Corda suam cornua delet
 

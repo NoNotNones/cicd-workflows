@@ -1,8 +1,9 @@
 ---
-weight: 1
+title: "Page 2"
+weight: 2
 ---
 
-# Leaf Page 2
+# Page 2
 
 ## Verum aetherias
 
