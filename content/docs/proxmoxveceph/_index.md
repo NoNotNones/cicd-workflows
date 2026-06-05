@@ -1,6 +1,6 @@
 ---
 title: "Multi-Node Proxmox & Ceph Infrastructure Deployment"
-weight: 1
+weight: 2
 ---
 
 # Multi-Node Proxmox & Ceph Infrastructure Deployment

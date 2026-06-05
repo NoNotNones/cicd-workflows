@@ -20,19 +20,29 @@ layout: landing
 - Network & Security Engineering
 - Virtualization & Platform Engineering
 
+{{< image src="tools.jpg" >}}
+
 ### My CI/CI Workflows :
 
-{{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxveceph/" >}} Multi-Node Proxmox & Ceph Infrastructure Deployment{{< /button >}} 
+- {{< button href="/cicd-workflows/docs/platform-infrastructure/" >}} Platform Infrastructure - Azure {{< /button >}} 
+```ini
+- Designed and deployed secure Azure infrastructure using App Service, Azure SQL, NSG, WAF, Private Endpoint, Azure Monitor and Terraform.
+- Implemented CI/CD pipelines with Azure DevOps and GitHub Actions.
+- Configured monitoring, logging and alerting using Azure Monitor and Log Analytics.
+- Implemented RBAC, Managed Identity and Zero Trust networking principles.
+```
+
+- {{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxveceph/" >}} Multi-Node Proxmox & Ceph Infrastructure Deployment{{< /button >}} 
 ```ini
 This project simulates a real-world cloud infrastructure environment combining compute virtualization and distributed storage,
 demonstrating enterprise-level DevOps and SRE practices including high availability, fault tolerance, and system recovery.
 ```
 
-{{< button href="https://nonotnones.github.io/cicd-workflows/docs/zabbixtunning/" >}}Zabbix Monitoring & Performance Optimization  {{< /button >}}
+- {{< button href="https://nonotnones.github.io/cicd-workflows/docs/zabbixtunning/" >}}Zabbix Monitoring & Performance Optimization  {{< /button >}}
 ```ini
 This project implements a centralized observability platform using **Zabbix, MariaDB, SNMP, and Agent-based monitoring**,
 combined with deep system-level performance tuning to ensure stability under limited resources.
 ```
 
-{{< image src="tools.jpg" >}}
+
 
