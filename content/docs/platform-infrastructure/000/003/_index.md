@@ -1,6 +1,6 @@
 ---
 title: "Connectivity and Routing"
-weight: 103
+weight: 10
 params:
   bookCollapseSection: true
 ---
@@ -48,3 +48,21 @@ To connect to the headquarters: ➡️ A **VNet Peering (or Network Peering)** i
 - Think of it as telling Google Maps: "Do not use the default route. Use this specific road instead."
 {{% /hint %}}
 
+{{% hint warning %}} 
+#### Imagine a company with:
+- 🏢 500 employees
+- Each employee has an internal extension number:
+101
+102
+103
+...
+- These extension numbers are only valid inside the company.
+- However, when employees make calls to people outside the organization:
+  - 📞 External callers do not see the internal extension numbers.
+- Instead, everyone appears to be calling from:
+Company Hotline
+028-12345678
+
+**Key Takeaway**: Azure NAT Gateway provides scalable outbound Internet connectivity for resources using private IP addresses. It performs Network Address Translation (NAT), allowing multiple virtual machines within a subnet to share one or more public IP addresses while keeping the resources private and protected from direct inbound Internet access.
+
+{{% /hint %}}

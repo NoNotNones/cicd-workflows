@@ -210,6 +210,29 @@ Identify appropriate use cases for a network address translation (NAT) gateway, 
     - Default route can be overridden with UDR
   - Combine with Azure Firewall for hub & spoke outbound connectivity
 
-
 - {{< image src="./n1.jpg" >}}
+{{% /columns %}}
+
+
+{{% hint success %}}
+### Demo: Create a NAT Gateway
+{{% /hint %}}
+
+- NAT Gateway > Create network address translation (NAT) gateway
+  - Basic:
+    - Subscription: Azure Pass - Sponsorship
+      - Resource group: az-700course
+    - NAT Gateway name: **gw1**
+    - Region: West US
+    - Availability zone: <empty>
+    - TCP idle timeout (minitutes): 4
+  - Outbound IP
+    - Public IP address: **publicprefix1 (168.62.192.84)**
+  - Subnet
+    - Virtual network: **vNet1**
+      - Subnet name: **subnet1**, **subnet10**
+
+{{% columns %}}
+- {{< image src="./n2.jpg" >}} 
+- {{< image src="./n3.jpg" >}}
 {{% /columns %}}

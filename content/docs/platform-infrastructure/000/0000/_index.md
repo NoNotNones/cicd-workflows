@@ -1,6 +1,6 @@
 ---
 title: "CICD Workflows"
-weight: 1
+weight: 1000
 params:
   bookCollapseSection: true
 ---
