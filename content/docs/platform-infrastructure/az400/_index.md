@@ -1,5 +1,5 @@
 ---
-title: "Azure Concepts"
+title: "DevOps Concepts"
 weight: 3
 params:
   bookCollapseSection: true
