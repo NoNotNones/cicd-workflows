@@ -24,25 +24,35 @@ layout: landing
 
 ### My CI/CI Workflows :
 
+- {{< button href="/cicd-workflows/docs/devops-projects/" >}} Building a Highly Available Kubernetes Cluster on Proxmox{{< /button >}} 
+```hugo
+The infrastructure is organized into three logical layers:
+- Infrastructure Layer: Proxmox VE hosts the virtual machines that form the Kubernetes cluster.
+- High Availability Layer: HAProxy and Keepalived provide a resilient entry point to the Kubernetes API through a shared Virtual IP.
+- Kubernetes Layer: Three control plane nodes manage the cluster, while worker nodes host containerized applications. Calico provides networking, and containerd serves as the container runtime.
+This layered architecture improves availability, simplifies cluster management, and provides a solid foundation for deploying cloud-native services.
+```
+
+
+- {{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxveceph/" >}} Multi-Node Proxmox & Ceph Infrastructure Deployment{{< /button >}} 
+```hugo
+- This project simulates a real-world cloud infrastructure environment combining compute virtualization and distributed storage,
+demonstrating enterprise-level DevOps and SRE practices including high availability, fault tolerance, and system recovery.
+```
+
+- {{< button href="https://nonotnones.github.io/cicd-workflows/docs/zabbixtunning/" >}}Zabbix Monitoring & Performance Optimization  {{< /button >}}
+```hugo
+- This project implements a centralized observability platform using **Zabbix, MariaDB, SNMP, and Agent-based monitoring**,
+combined with deep system-level performance tuning to ensure stability under limited resources.
+```
 - {{< button href="/cicd-workflows/docs/platform-infrastructure/" >}} Platform Infrastructure - Azure {{< /button >}} 
-```ini
+```hugo
 - Designed and deployed secure Azure infrastructure using App Service, Azure SQL, NSG, WAF, Private Endpoint, Azure Monitor and Terraform.
 - Implemented CI/CD pipelines with Azure DevOps and GitHub Actions.
 - Configured monitoring, logging and alerting using Azure Monitor and Log Analytics.
 - Implemented RBAC, Managed Identity and Zero Trust networking principles.
 ```
 
-- {{< button href="https://nonotnones.github.io/cicd-workflows/docs/proxmoxveceph/" >}} Multi-Node Proxmox & Ceph Infrastructure Deployment{{< /button >}} 
-```ini
-This project simulates a real-world cloud infrastructure environment combining compute virtualization and distributed storage,
-demonstrating enterprise-level DevOps and SRE practices including high availability, fault tolerance, and system recovery.
-```
-
-- {{< button href="https://nonotnones.github.io/cicd-workflows/docs/zabbixtunning/" >}}Zabbix Monitoring & Performance Optimization  {{< /button >}}
-```ini
-This project implements a centralized observability platform using **Zabbix, MariaDB, SNMP, and Agent-based monitoring**,
-combined with deep system-level performance tuning to ensure stability under limited resources.
-```
 
 
 
